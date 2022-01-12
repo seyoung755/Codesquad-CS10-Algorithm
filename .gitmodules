@@ -1,3 +1,6 @@
 [submodule "Algorithm-220105"]
 	path = Algorithm-220105
 	url = https://gist.github.com/7ab48acb4f58962987d8d8e253e4eb50.git
+[submodule "Algorithm-220112"]
+	path = Algorithm-220112
+	url = https://gist.github.com/21b86a9fa4f8db38b0770f3ca40261ce.git
