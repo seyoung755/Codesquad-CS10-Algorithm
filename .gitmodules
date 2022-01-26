@@ -7,3 +7,6 @@
 [submodule "Algorithm-220119"]
 	path = Algorithm-220119
 	url = https://gist.github.com/484474dce296b81331c8ff3d431dd7ba.git
+[submodule "Algorithm-220126"]
+	path = Algorithm-220126
+	url = https://gist.github.com/86adc6b9ac928aa4f207e09240ae6a63.git
